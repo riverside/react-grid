@@ -1,0 +1,56 @@
+.r-table {
+  border: solid 1px #DDEEEE;
+  border-collapse: collapse;
+  border-spacing: 0;
+  font: normal 13px Arial, sans-serif;
+  width: 100%;
+}
+.r-table thead th {
+  background-color: #DDEFEF;
+  border: solid 1px #DDEEEE;
+  color: #336B6B;
+  padding: 10px;
+  text-align: left;
+  text-shadow: 1px 1px 1px #fff;
+}
+.r-table tbody td {
+  border: solid 1px #DDEEEE;
+  color: #333;
+  padding: 10px;
+  text-shadow: 1px 1px 1px #fff;
+}
+.r-table tbody tr:nth-child(odd) {
+  background-color: #fff;
+}
+.r-table tbody tr:nth-child(even) {
+  background-color: #EEF7EE;
+}
+.r-table tbody td {
+  border-left: none;
+  border-right: none;
+}
+.r-table tbody td img {
+  max-width: 90px;
+  height: auto;
+  vertical-align: middle;
+  padding: 1px;
+  background-color: #fff;
+  border: solid 1px #CCC;
+}
+.r-table tfoot td {
+  line-height: 32px;
+  padding: 10px;
+}
+.r-table button {
+  margin: 0 3px 0 0;
+}
+.r-table .r-paginate {
+  float: left;
+  width: 40%;
+}
+.r-table .r-rowcount {
+  float: left;
+}
+.r-table .r-stats {
+  float: right;
+}

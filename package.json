@@ -1,0 +1,24 @@
+{
+	"name": "react-grid",
+	"description": "React.js Grid component",
+	"keywords": ["react", "grid"],
+	"version": "0.1.0",
+	"dependencies": {
+	    "jquery": "*"
+	},
+	"devDependencies": {
+	    "react-tools": "*"
+	},
+	"main": "build/grid.js",
+	"author": {
+		"name": "Dimitar Ivanov",
+		"url": "https://twitter.com/DimitarIvanov"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/riverside/react-grid.git"
+	},
+	"bugs": "https://github.com/riverside/react-grid/issues",
+	"homepage": "https://github.com/riverside/react-grid"
+}
