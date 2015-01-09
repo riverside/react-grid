@@ -1,4 +1,13 @@
-var Table = React.createClass({
+/**
+ * React Grid Component v0.1.0
+ *
+ * Copyright 2014-2015, Dimitar Ivanov 
+ *
+ * Dual licensed under the MIT and GPL licenses:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *   http://www.gnu.org/licenses/gpl.html
+ */
+ var Table = React.createClass({
     loadData: function () {
         $.ajax({
             url: this.props.url,
