@@ -1,7 +1,7 @@
 {
 	"name": "react-grid",
 	"description": "React.js Grid component",
-	"keywords": ["react", "grid"],
+	"keywords": ["react", "grid", "react-component"],
 	"version": "0.1.0",
 	"dependencies": {
 	    "jquery": "*"
