@@ -2,7 +2,7 @@
 	"name": "react-grid-table",
 	"description": "React.js Grid component",
 	"keywords": ["react", "grid", "react-component"],
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"dependencies": {
 	    "jquery": "*"
 	},
