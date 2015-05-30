@@ -1,4 +1,5 @@
 # React Grid Table
+*React grid table* is a simple React component which render a grid table with the help of Facebook's [React](http://facebook.github.io/react/) library.
 ## Installation
 ```sh
 npm install react-grid-table
