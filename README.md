@@ -9,4 +9,4 @@ npm install react-grid-table
 ## Demo
 [React Grid demo](http://zinoui.com/blog/react-grid-component#demo "React Grid demo")
 ## License
-MIT
+This repo is licensed under the MIT license
