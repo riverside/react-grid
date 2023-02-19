@@ -7,9 +7,5 @@
 ```sh
 npm install react-grid-table
 ```
-## Blog post
-[React Grid Component](https://zinoui.com/blog/react-grid-component "React Grid Component")
-## Demo
-[React Grid demo](https://zinoui.com/blog/react-grid-component#demo "React Grid demo")
 ## License
 This repo is licensed under the MIT license
